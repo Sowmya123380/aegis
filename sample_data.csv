@@ -1,0 +1,6 @@
+record_id,department,amount,status
+1,Admissions,12000,paid
+2,Library,1500,pending
+3,Admissions,8000,paid
+4,Transport,3500,pending
+5,Library,1200,paid
