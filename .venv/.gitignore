@@ -1,0 +1,20 @@
+```gitignore
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# User database
+aegis_users.db
+aegis_users.db-journal
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Testing cache
+.pytest_cache/
+```

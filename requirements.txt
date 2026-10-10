@@ -12,3 +12,7 @@ langchain-google-genai>=1.0.0
 langchain-openai>=0.1.0
 pytest>=8.0.0
 werkzeug
+streamlit
+google-genai
+python-dotenv
+pypdf
